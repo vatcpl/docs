@@ -18,6 +18,7 @@ Afterward, you should see the following view:
 **Mod Sources:**  
 You can find mods suitable for Minecraft Forge on websites like:
 - [CurseForge](https://www.curseforge.com/minecraft)
+- [Modrinth](https://modrinth.com/)
 - [9Minecraft](https://www.9minecraft.net/)
 - [TLMODS](https://tlmods.org/en/)
 
@@ -25,6 +26,8 @@ Example.
 ![Curseforge](/img/minecraft/curseforge.png)
  
 - **Compatibility:** Make sure the mods are compatible with the version of Minecraft Forge and the game itself you're using.
+- Remember that some mods require additional libraries that you need to download manually. Without them, these mods won't work.
+
 
 Choose mods only from trusted sites to ensure the security of your server!
 
@@ -45,6 +48,6 @@ After downloading the required mods, use the steps described in the SFTP guide t
 ## Configuring Mods (Optional)
 ---
 
-Some mods offer the option to adjust settings via configuration files. These are usually located in the `config` folder of your server. You can edit and adjust these files similarly to the mod files themselves via SFTP.
+Some mods offer the option to adjust settings via configuration files. These are usually located in the `config` folder of your server. You can edit and adjust these files similarly to the mod files themselves via SFTP or build-in Web file editor.
 
 Do not forget to create a backup of your server before starting the mod installation to avoid possible data loss.
